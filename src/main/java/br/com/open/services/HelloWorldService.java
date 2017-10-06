@@ -9,7 +9,7 @@ public class HelloWorldService {
 	@GET
 	@Path("/hello")
 	public String getMsg() {
-		return "Hello World !! - Jersey 2!!!";
+		return "Welcome to a simple test with Jersey 2.x";
 	}
 
 }

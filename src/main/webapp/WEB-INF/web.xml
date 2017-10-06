@@ -3,7 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>A simple webservice with jersey 2.x</display-name>
+  <display-name>A simple web-service with jersey 2.x</display-name>
     
   <servlet>
         <servlet-name>jersey-serlvet</servlet-name>

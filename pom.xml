@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.open.packge</groupId>
-  <artifactId>open-ws2</artifactId>
+  <artifactId>open-ws</artifactId>
   <packaging>war</packaging>
   <version>0.0.1</version>
-  <name>open-ws2 Maven Webapp</name>
+  <name>open-ws Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <repositories>
        <repository>
@@ -50,7 +50,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>open-ws2</finalName>
+    <finalName>open-ws</finalName>
     <plugins>
        <plugin>
            <artifactId>maven-compiler-plugin</artifactId>
