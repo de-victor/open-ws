@@ -9,6 +9,7 @@ import br.com.open.models.response.ResponseModel;
 
 public class ResponseWs {
 
+	public static String timeProcessed = "time_processed";
 	
 	public static Response forbiden(String msg){
 		ResponseModel response = new ResponseModel(403, msg);
