@@ -11,5 +11,6 @@ public interface WebserviceInterface<Entity> {
 	public Response search(Entity entity);
 	public Response update(Entity entity);
 	public Response delete(Entity entity);
+	public Response insert(Entity entity);
 
 }
